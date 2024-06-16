@@ -1,6 +1,4 @@
-package Lists.OperacoesBasicas;
-
-import java.math.BigDecimal;
+package Lists.dio.OperacoesBasicas;
 
 public class Item {
     private String nome;
